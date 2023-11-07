@@ -9,4 +9,5 @@ For this project, you’ll design the tables to hold the data from the CSV files
 Where to find results:
 
 Module_9_SQL_Challenge --> EmployeesSQL --> Code 
+
 Module_9_SQL_Challenge --> EmployeesSQL --> Images
